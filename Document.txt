@@ -6,3 +6,5 @@ Adding new feature in here
 
 Hot fix for the production is here now. DW
 Adding the hot fix again. 
+
+Now i'm working on the development after the HF.
